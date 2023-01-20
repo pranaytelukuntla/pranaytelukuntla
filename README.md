@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/telukuntla.pranay/"><img src="https://img.shields.io/badge/-@Pranay Telukuntla-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranaytelukuntla&show_icons=true&theme=radical)
 
+[![Pranay's github stats](https://github-readme-stats.vercel.app/api?username=pranay telukuntla)](https://github.com/pranaytelukuntla/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaytelukuntla&layout=compact)](https://github.com/pranaytelukuntla/github-readme-stats)
 
