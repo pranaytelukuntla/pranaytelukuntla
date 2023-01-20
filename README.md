@@ -8,6 +8,4 @@
 </p>
 
 
-[![Pranay's github stats](https://github-readme-stats.vercel.app/api?username=pranay telukuntla)](https://github.com/pranaytelukuntla/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaytelukuntla&layout=compact)](https://github.com/pranaytelukuntla/github-readme-stats)
 
