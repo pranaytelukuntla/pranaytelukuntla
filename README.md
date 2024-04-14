@@ -3,7 +3,7 @@
 <p align="centre">
 <p align="centre">
 <a href="https://github.com/pranaytelukuntla">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines= I am Pranay+Telukuntla;MS Computer Science Student+%7C+Aspiring+Software+Engineer;AI+%7C+Machine+Learning+%7C+Software Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines= I am Pranay+Telukuntla;MS Computer Science Student+%7C+Aspiring+Software+Engineer;AI+%7C+Machine+Learning+%7C+Software Engineering" alt="Typing SVG" />
 </a>
 <br/>
 <p align="centre">
