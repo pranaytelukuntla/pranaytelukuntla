@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Pranay Telukuntla
 
-![Profile Image]()
+![Profile Image](![image](https://github.com/user-attachments/assets/283c5711-1e8d-4d0a-b104-f2b5e269d7ba)
+)
 
-🎓 **Graduate Student** – MS in Computer Science, specializing in Software Engineering & Intelligent Systems at the University of Texas at Arlington (GPA: 3.12/4.0).  
-💻 **Hackathon Enthusiast** – Mentor and participant at HACK UTA'23 & '24.  
+🎓 **Graduate Student** – MS in Computer Science, specializing in Software Engineering & Intelligent Systems at the University of Texas at Arlington.  
 🌱 **Current Project** – Tree VIZ AI Companion: An AI-powered visualization tool for learning data structures.
 
 ---
 
 ## 🚀 About Me  
 - 🛠️ **Interned** at HighRadius Corporation, working on an AI-Enabled Fintech Cloud application.  
-- 💼 **Experience** in product development, data modeling, UI/UX design, and backend development.  
-- 📊 Former **Student Administrative Assistant** at UTA Mail & Distribution Services.  
+- 💼 **Experience** in product development, data modeling.  
+- 📊 **Student Administrative Assistant** at UTA Mail & Distribution Services.  
 - 🌐 **Tech Enthusiast** exploring software engineering, intelligent systems, and full-stack development.
 
 ---
