@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pranay Telukuntla
+# 👋 Hi, I’m Pranay
 
 ![Profile Image](![image](https://github.com/user-attachments/assets/283c5711-1e8d-4d0a-b104-f2b5e269d7ba)
 )
