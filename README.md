@@ -4,7 +4,7 @@
 )
 
 🎓 **Graduate Student** – MS in Computer Science, specializing in Software Engineering & Intelligent Systems at the University of Texas at Arlington.  
-🌱 **Current Project** – Tree VIZ AI Companion: An AI-powered visualization tool for learning data structures.
+
 
 ---
 
