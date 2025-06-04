@@ -33,7 +33,7 @@
 ## 🚀 About Me  
 - 🛠️ **Interned** at HighRadius Corporation, working on an AI-Enabled Fintech Cloud application.  
 - 💼 **Experience** in product development, data modeling.  
-- 📊 **Student Administrative Assistant** at UTA Mail & Distribution Services.  
+- 📊 **Data Anaylst** at UTA Mail & Distribution Services.  
 - 🌐 **Tech Enthusiast** exploring software engineering, intelligent systems, and full-stack development.
 
 ---
